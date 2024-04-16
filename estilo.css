@@ -1,0 +1,37 @@
+.cabecalho{
+    padding-top: 10%;
+    background-color: blue;
+    color: white;
+    font-size: 20px;
+}
+    .conteudo{
+   padding-top: 10%; 
+   background-color: black;
+   color: white;
+   font-size: 20px;
+  }
+ .rodape{
+    padding-top: 10%;
+    color: white;
+    font-size: 20px;
+    background-color: green;
+    text-align: center;
+ }
+ .produto{
+    background-image: url("fundo.jpeg");
+    padding-top: 20%;
+    background-repeat: no-repeat;
+    background-size: 200px 600px;
+    color: blue;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+ }  
+ 
+ ul{   
+ }   
+
+ a{
+    color:white;
+
+ }
